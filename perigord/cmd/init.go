@@ -18,8 +18,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/polyswarm/perigord/project"
-	"github.com/polyswarm/perigord/templates"
+	"github.com/utkarsh17ife/perigord/project"
+	"github.com/utkarsh17ife/perigord/templates"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

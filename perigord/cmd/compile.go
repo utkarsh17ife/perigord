@@ -26,8 +26,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/polyswarm/perigord/project"
-	"github.com/polyswarm/perigord/templates"
+	"github.com/utkarsh17ife/perigord/project"
+	"github.com/utkarsh17ife/perigord/templates"
 )
 
 var compileCmd = &cobra.Command{

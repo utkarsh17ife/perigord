@@ -13,7 +13,7 @@
 
 package main
 
-import "github.com/polyswarm/perigord/perigord/cmd"
+import "github.com/utkarsh17ife/perigord/perigord/cmd"
 
 func main() {
 	cmd.Execute()

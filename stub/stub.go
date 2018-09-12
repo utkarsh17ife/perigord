@@ -13,7 +13,7 @@
 
 package stub
 
-import "github.com/polyswarm/perigord/stub/cmd"
+import "github.com/utkarsh17ife/perigord/stub/cmd"
 
 func StubMain() {
 	cmd.Execute()

@@ -27,7 +27,7 @@ import (
 	"github.com/ethereum/go-ethereum/rpc"
 	"github.com/spf13/viper"
 
-	"github.com/polyswarm/perigord/project"
+	"github.com/utkarsh17ife/perigord/project"
 
 	"golang.org/x/crypto/ssh/terminal"
 )
